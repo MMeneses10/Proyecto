@@ -2,7 +2,7 @@
 
 Disponible en:
 
-[![Alt text](https://img.youtube.com/vi/o-aFKlFSXiM/0.jpg)]
+[![Alt text](https://img.youtube.com/vi/o-aFKlFSXiM/0.jpg/0.jpg)]
 (https://www.youtube.com/watch?v=o-aFKlFSXiM&t=2s)
 
 Propuesta: Celebración Final de Semestre: Galaxia Hamburguesa
